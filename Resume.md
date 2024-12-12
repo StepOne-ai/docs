@@ -26,33 +26,59 @@
 ### **Hard Skills**
 
 - **Языки программирования:** Python, C, C++, Go  
-- **Фреймворки и библиотеки:** GIN, React, Node.js, Pandas, NumPy
-- **Базы данных:** MySQL, PostgreSQL, Google Firebase, Sqlite3  
-- **Инструменты разработки:** Git
-- **Технологии:** REST API, WebSocket, Web Scraping, Machine Learning (начальный уровень)  
+- **Фреймворки и библиотеки:** GIN, Htmx, React, Pandas
+- **Базы данных:** PostgreSQL, Google Firebase, Sqlite3
+- **Инструменты разработки:** Git, Bash
+- **Технологии:** REST API, 0auth2, Vercel
 - **Операционные системы:** Linux, Windows, Mac OS
+- **Владение техническим английским языком**
 
 ### **Soft Skills**
 
+- Эффективный тайм-менеджмент
 - Умение работать в команде  
 - Аналитическое мышление  
 - Быстрая обучаемость  
 - Ответственность и пунктуальность  
-- Способность решать проблемы и работать под давлением  
-
+- Владение и управление своими эмоциями (self-менеджмент), адекватное восприятие конструктивной критики
+- Настойчивость, поиск новых решений
+- Активность, умение делать выбор и нести за него ответственность
+- Умение вести переговоры и договариваться
+- Креативность
+ 
 ---
 
-## Проекты
+## Достижения
 
-### **1. Веб-приложение для управления задачами**  
-**Описание:** Разработка веб-приложения для управления задачами с использованием Django и React.  
-**Технологии:** Python, Django, React, PostgreSQL  
-**GitHub:** [github.com/ivanivanov/task-manager](https://github.com/ivanivanov/task-manager)  
+- Финалист кейс чемпионата Kept 2023
+- Участник VK x HSE Case Champ 2024
 
-### **2. Анализатор данных о продажах**  
-**Описание:** Инструмент для анализа данных о продажах с визуализацией на основе Pandas и Matplotlib.  
-**Технологии:** Python, Pandas, Matplotlib  
-**GitHub:** [github.com/ivanivanov/sales-analyzer](https://github.com/ivanivanov/sales-analyzer)  
+## Примеры проектов
+
+### **1. OpenAI Proxy API**  
+**Описание:** Модуль для работы с API OpenAI через прокси сервер
+**Технологии:** Golang
+**GitHub:** [github.com/StepOne-ai/chatgpt_golang](https://github.com/StepOne-ai/chatgpt_golang)
+
+### **2. Блокчейн система**  
+**Описание:** Функционирующая блокчейн система (не завершенная).  
+**Технологии:** Golang  
+**GitHub:** [github.com/StepOne-ai/go_blockchain](https://github.com/StepOne-ai/go_blockchain)
+
+### **3. Бот для заказа работа университет Сеченова(1 мед)**  
+**Описание:** Тестовый проект, который длился полгода. Суммарный оборот составил ~50.000руб.
+**Технологии:** Python, Telebot
+**GitHub:** [github.com/StepOne-ai/StudyLabBot](https://github.com/StepOne-ai/StudyLabBot)
+
+### **3. Веб-приложение для отзывов**  
+**Описание:** Разработка веб-приложения для отзывов с использованием React.  
+**Технологии:** React, Google Firebase  
+**GitHub:** [github.com/StepOne-ai/testdbgithub](https://github.com/StepOne-ai/testdbgithub)
+
+### **4. Бот ассистент для Telegram**  
+**Описание:** Бот для сохранения удаленных и измененных сообщений собеседником. Также возможность анализировать URL и перевод голосовых в текст.
+**Технологии:** Python, Pandas, Numpy, Sci-kit, Aiogram
+**GitHub:** [github.com/StepOne-ai/AssistantBot](https://github.com/StepOne-ai/AssistantBot)
 
 ---
 
@@ -68,6 +94,7 @@
 - Разработка веб-приложений  
 - Машинное обучение и анализ данных  
 - Спорт, шахматы
+- Путешествия
 
 ---
 
