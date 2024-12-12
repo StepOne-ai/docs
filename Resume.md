@@ -56,8 +56,8 @@
 ## Примеры проектов
 
 ### **1. OpenAI Proxy API**  
-**Описание:** Модуль для работы с API OpenAI через прокси сервер
-**Технологии:** Golang
+**Описание:** Модуль для работы с API OpenAI через прокси сервер  
+**Технологии:** Golang  
 **GitHub:** [github.com/StepOne-ai/chatgpt_golang](https://github.com/StepOne-ai/chatgpt_golang)
 
 ### **2. Блокчейн система**  
@@ -66,8 +66,8 @@
 **GitHub:** [github.com/StepOne-ai/go_blockchain](https://github.com/StepOne-ai/go_blockchain)
 
 ### **3. Бот для заказа работа университет Сеченова(1 мед)**  
-**Описание:** Тестовый проект, который длился полгода. Суммарный оборот составил ~50.000руб.
-**Технологии:** Python, Telebot
+**Описание:** Тестовый проект, который длился полгода. Суммарный оборот составил ~50.000руб.  
+**Технологии:** Python, Telebot  
 **GitHub:** [github.com/StepOne-ai/StudyLabBot](https://github.com/StepOne-ai/StudyLabBot)
 
 ### **3. Веб-приложение для отзывов**  
@@ -76,8 +76,8 @@
 **GitHub:** [github.com/StepOne-ai/testdbgithub](https://github.com/StepOne-ai/testdbgithub)
 
 ### **4. Бот ассистент для Telegram**  
-**Описание:** Бот для сохранения удаленных и измененных сообщений собеседником. Также возможность анализировать URL и перевод голосовых в текст.
-**Технологии:** Python, Pandas, Numpy, Sci-kit, Aiogram
+**Описание:** Бот для сохранения удаленных и измененных сообщений собеседником. Также возможность анализировать URL и перевод голосовых в текст.  
+**Технологии:** Python, Pandas, Numpy, Sci-kit, Aiogram  
 **GitHub:** [github.com/StepOne-ai/AssistantBot](https://github.com/StepOne-ai/AssistantBot)
 
 ---
