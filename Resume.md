@@ -70,12 +70,12 @@
 **Технологии:** Python, Telebot  
 **GitHub:** [github.com/StepOne-ai/StudyLabBot](https://github.com/StepOne-ai/StudyLabBot)
 
-### **3. Веб-приложение для отзывов**  
+### **4. Веб-приложение для отзывов**  
 **Описание:** Разработка веб-приложения для отзывов с использованием React.  
 **Технологии:** React, Google Firebase  
 **GitHub:** [github.com/StepOne-ai/testdbgithub](https://github.com/StepOne-ai/testdbgithub)
 
-### **4. Бот ассистент для Telegram**  
+### **5. Бот ассистент для Telegram**  
 **Описание:** Бот для сохранения удаленных и измененных сообщений собеседником. Также возможность анализировать URL и перевод голосовых в текст.  
 **Технологии:** Python, Pandas, Numpy, Sci-kit, Aiogram  
 **GitHub:** [github.com/StepOne-ai/AssistantBot](https://github.com/StepOne-ai/AssistantBot)
