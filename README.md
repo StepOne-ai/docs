@@ -81,6 +81,11 @@
 **Технологии:** Python, Pandas, Numpy, Sci-kit, Aiogram  
 **GitHub:** [github.com/StepOne-ai/AssistantBot](https://github.com/StepOne-ai/AssistantBot)
 
+### **6. Студенческий проект 2 курса**  
+**Описание:** Веб-приложения с возможностью ставить ставки на отчисление студентов
+**Технологии:** Golang, Sqlite3, 0auth2
+**GitHub:** [github.com/StepOne-ai/GolangWeb](https://github.com/StepOne-ai/GolangWeb)
+
 ---
 
 ## Языки
