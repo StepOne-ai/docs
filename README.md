@@ -6,8 +6,8 @@
 - **Контакты:**  
   - Email: stephenmarkman@vk.com
   - Телефон: +7 (910) 408-73-98  
-  - GitHub: https://github.com/StepOne-ai
-  - Telegram: https://t.me/StephenMarkman
+  - [GitHub](https://github.com/StepOne-ai)  
+  - [Telegram](https://t.me/StephenMarkman)
 
 ---
 
